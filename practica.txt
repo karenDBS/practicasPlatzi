@@ -1,4 +1,3 @@
 Estamos practicando todo lo aprendido en Platzi
 
-Ya hicimos el primer commit ahora estamos cambiando este texto
-para hacer el segundo commit
+Modificando...
