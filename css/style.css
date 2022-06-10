@@ -2,20 +2,23 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(2, 72, 116);
+    background-color: rgb(228, 242, 254);
+    margin: 0%;
 }
 
 header{
-    background:linear-gradient(rgb(69, 171, 249), black);
+    background:linear-gradient(to left , rgb(69, 171, 249), white);
     text-align: center;
-    color: rgb(210, 210, 210);
-    margin-left: 45vh;
-    margin-bottom: 8vh;
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-bottom: 3%;
-    width: 100vh;
-    border: 1px solid black;
-    box-shadow: 0.4rem 0.4rem 0rem 0rem rgba(0, 0, 0, 0.5);
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0px 5px 10px black;
+    margin-bottom: 7vh;
+}
+
+#logo{
+    width: 10vh;
+    height: 12vh;
 }
 
 #cont{
