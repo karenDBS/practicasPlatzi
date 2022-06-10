@@ -4,6 +4,20 @@ body{
     color: rgb(2, 72, 116);
 }
 
+header{
+    background:linear-gradient(rgb(69, 171, 249), black);
+    text-align: center;
+    color: rgb(210, 210, 210);
+    margin-left: 45vh;
+    margin-bottom: 8vh;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+    width: 100vh;
+    border: 1px solid black;
+    box-shadow: 0.4rem 0.4rem 0rem 0rem rgba(0, 0, 0, 0.5);
+}
+
 #cont{
     background-color: rgba(150, 222, 242, 0.879);
     border: 2px solid black;
@@ -11,4 +25,8 @@ body{
     padding-left: 5%;
     padding-right: 5%;
     width: 100vh;
+}
+
+h1{
+    color: darkblue;
 }
