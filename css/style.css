@@ -30,6 +30,17 @@ header{
     width: 100vh;
 }
 
+footer{
+    background-color: grey;
+    color:aliceblue;
+    border-top: 1px solid black;
+    width: 100%;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    margin-top: 2vh;
+    margin-bottom: 0%;
+}
+
 h1{
     color: rgb(2, 38, 116);
 }
